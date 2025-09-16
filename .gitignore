@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+booking-app-470114-d1dfa1f1dea5.json
+appointments.db
+.env
